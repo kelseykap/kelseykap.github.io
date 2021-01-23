@@ -19,7 +19,7 @@ Sep 2020 - present:
 Dec 2018 - Jan 2019:
 **React Front End Web Development Course,** Zaio _[Online]_          
 
-Feb 2015 - Nov 2019\t
+Feb 2015 - Nov 2019: 
 **BSc in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: "Stereo system design for ship-based acquisition in Antarctica", GPA 3.69_
            
 Feb 2012 - Nov 2014:
