@@ -18,7 +18,7 @@ Oct 2020 - present:
 **SIDEx** (Sea Ice Dynamic Experiment). _I will be providing sea ice analysis from satellite data during the field campaign in March 2021 and be developing sea ice motion analysis products that will be used to study the ice dynamics around the camp._
 
 Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. _I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my honors project._
+**SCALE** (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. _I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project._
 
 * * *
 
