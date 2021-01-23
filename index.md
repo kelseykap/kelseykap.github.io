@@ -2,9 +2,37 @@
 layout: default
 ---
 
+**Hello**, I am a first year PhD student studying Computer Science at the University of Delaware.
+
+* * *
+
+## Research
+I am a Research Assistant at VIMS Lab. My research interests include using Computer Vision and Deep Learning for sea ice analysis and I am currently developing an algorithm to automatically derive drift and deformation products of sea ice.
+
+* * *
+
+## Education
+
+Sep 2020 - present **PhD in Computer Science,** University of Delaware
+                  GPA 4.0
+
+Dec 2018 - Jan 2019 **React Front End Web Development Course,** Zaio [Online]
+                  
+
+Feb 2015 - Nov 2019 **BSc in Electrical and Computer Engineering,** University of Cape Town
+                  Honors project topic: "Stereo system design for ship-based acquisition in Antarctica"
+                  Award for best project
+                  GPA 3.69
+           
+
+Feb 2012 - Nov 2014 **Bachelor of Architectural Studies,** University of Cape Town
+
+* * *
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Resume](./another-page.html).
 
 There should be whitespace between paragraphs.
 
