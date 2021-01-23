@@ -32,7 +32,7 @@ Feb 2012 - Nov 2014 **Bachelor of Architectural Studies,** University of Cape To
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Resume](./another-page.html).
+[Resume](./Resume.pdf).
 
 There should be whitespace between paragraphs.
 
