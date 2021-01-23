@@ -7,7 +7,7 @@ layout: default
 * * *
 
 ## Research
-I am a Research Assistant at VIMS Lab. My research interests include using Computer Vision and Deep Learning for sea ice analysis and I am currently developing an algorithm to automatically derive drift and deformation products of sea ice.
+I am currently a Research Assistant at VIMS Lab at the University of Delaware. My research interests include using Computer Vision and Deep Learning for sea ice analysis and at the present moment I am busy with the development of an algorithm to automatically derive drift and deformation products of sea ice.
 
 * * *
 
