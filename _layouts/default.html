@@ -14,13 +14,16 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {%<h1><a href="">{{ site.title | default: site.github.repository_name }}</a></h1>%}
         
         {% if site.logo %}
+        <div style="height: 100px">
           <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <\div>
         {% endif %}
 
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h1><a href="">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {%<h2>{{ site.description | default: site.github.project_tagline }}</h2>%}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
