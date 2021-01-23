@@ -36,5 +36,5 @@ Newark, DE
 
 * * *
 
-[Full Resume](./Resume.pdf).
+[Full Resume](./Resume.pdf)
 
