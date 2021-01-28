@@ -42,7 +42,7 @@ See more about the MOSAiC Expedition [here](https://mosaic-expedition.org/).
 
 ### SCALE
 
-A six week expedition to the MIZ in the Antartic aboard the S.A. Agulhas II. 
+A six week expedition in the Spring of 2019 to the MIZ in the Antarctic aboard the S.A. Agulhas II. 
 
 ![breaking-ice](./assets/img/breaking-ice.gif)
 _The S.A. Agulhas II icebreaker in the Southern Ocean during the Scale Expedition._
