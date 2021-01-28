@@ -10,7 +10,7 @@ layout: default
 
 In March 2021 a distributed array of sensors and platforms will be deployed in an ice floe in the Beaufort Sea off the Alaskan coast to monitor sea ice stress, strain and drift over several months.
 
-I will be part of the Ground Support Team, providing sea ice fracture and lead formation analysis from satellite data during the field campaign, and am developing sea ice motion analysis products using integrated satellite and buoy GPS data, that will be used for understanding the fine-scale strain and stress dynamics of the sea ice around the camp.
+I will be part of the ground support team, providing sea ice fracture and lead formation analysis from satellite data to the field team during the field campaign.  My primary role is developing sea ice motion analysis products using integrated satellite and buoy GPS data that will be used for advancing our knowledge of the fine-scale strain and stress dynamics of sea ice under the influence of atmospheric, wave and ocean forces.
 
 
 ![sidex-camp](./assets/img/sidex-camp.gif)
