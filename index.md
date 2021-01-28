@@ -24,6 +24,8 @@ Oct 2020 - present:
 Oct 2019 - Nov 2019: 
 **SCALE** (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. _I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project._
 
+You can read more about these projects [here](./Projects.pdf)
+
 * * *
 
 ## Education
