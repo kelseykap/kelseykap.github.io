@@ -49,7 +49,10 @@ _The S.A. Agulhas II icebreaker in the Southern Ocean during the Scale Expeditio
 
 The goal of the project was to record seasonal cycle dynamics in the Southern Ocean in order to improve understanding of climate sensitivity. On board were 97 participants across 17 nationalities from 19 different scientific institutions. Read more [here](https://www.sanap.ac.za/spring-cruise-2019-onboard-the-s-a-agulhas-ii).
 
-I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a [Stereo Vision system](./thesis.pdf) I developed for my Honors project.
+I participated as a member of the Sea Ice Team from the University of Cape Town. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a [Stereo Vision system](./thesis.pdf) I developed for my final honors project.
+
+![coring](./assets/img/coring.JPG)
+_ITaking ice cores during the 2019 SCALE Expedition. [Photo by Felix Paul]_
 
 * * *
 
