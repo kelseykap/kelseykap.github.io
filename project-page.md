@@ -4,8 +4,6 @@ layout: default
 
 ## Projects
 
-[back](./)
-
 * * *
 
 **SIDEx**
@@ -21,3 +19,5 @@ layout: default
 **SCALE**
 
 * * *
+
+[back](./)
