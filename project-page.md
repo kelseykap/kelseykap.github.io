@@ -42,7 +42,7 @@ In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, 
 
 Six week expedition to Antartica aboard the S.A. Agulhas II. 
 
-I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project.
+I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a [Stereo Vision system](./thesis.pdf) I developed for my Honors project.
 
 * * *
 
