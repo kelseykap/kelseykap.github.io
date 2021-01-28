@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
-
 [back](./)
+
+## SIDEx
+
+![sidex-camp](./assets/img/sidex-camp.gif)
