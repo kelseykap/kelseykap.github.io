@@ -21,9 +21,7 @@ My research interests include Computer Vision, Deep Learning, sea ice and remote
 Oct 2020 - present: 
 **SIDEx** (Sea Ice Dynamic Experiment). _I will be part of the Ground Support Team, providing sea ice fracture and lead formation analysis from satellite data during the field campaign in March 2021, and am developing sea ice motion analysis products using integrated satellite and buoy GPS data, that will be used for understanding the fine-scale strain and stress dynamics of the sea ice around the camp._ 
 
-![sidex-camp](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/sidex-camp.gif)
-
-![logo](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/logo.png)
+![sidex-camp](./assets/img/sidex-camp.gif)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
