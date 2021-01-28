@@ -28,11 +28,11 @@ Oct 2020 - present:
 Dec 2020 - present: 
 **MOSAiC** (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). _In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data._ 
 
-You can read more about these projects [here](./Projects.pdf).
-
 
 Oct 2019 - Nov 2019: 
 **SCALE** (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. _I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project._ [](./antarctica.html).
+
+You can read more about these projects [here](./projects-page.html).
 
 * * *
 
