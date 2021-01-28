@@ -52,7 +52,7 @@ The goal of the project was to record seasonal cycle dynamics in the Southern Oc
 I participated as a member of the Sea Ice Team from the University of Cape Town. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of the [Stereo Vision system](./thesis.pdf) I developed for my final honors project.
 
 ![coring](./assets/img/coring.JPG)
-_ITaking ice cores during the 2019 SCALE Expedition. [Photo by Felix Paul]_
+_Extracting ice cores during the 2019 SCALE Expedition. [Photo by Felix Paul]_
 
 * * *
 
