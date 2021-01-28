@@ -6,7 +6,7 @@ layout: default
 
 * * *
 
-### SIDE (Sea Ice Dynamic Experiment). 
+### SIDEx
 
 In March 2021 a distributed array of sensors and platforms will be deployed in an ice floe in the Beaufort Sea off the Alaskan coast to monitor sea ice stress, strain and drift over several months.
 
@@ -14,7 +14,7 @@ I will be part of the Ground Support Team, providing sea ice fracture and lead f
 
 
 ![sidex-camp](./assets/img/sidex-camp.gif)
-_Field camp Layout and Remote Sensors_
+_Field camp layout and remote sensors_
 
 
 A combination of Sentinel-1 and MODIS satellite imagery will be used to track lead and crack formation around the camp. The ground support team will provide the field team with daily reports of the sea ice drift and fracture based on manual analysis.
@@ -32,13 +32,15 @@ You can see the full project presentation [here](./Projects.pdf).
 
 * * *
 
-### MOSAiC (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). 
+### MOSAiC
 
 In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data. See more about the MOSAiC Expedition [here](https://mosaic-expedition.org/).
 
 * * *
 
-### SCALE (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. 
+### SCALE
+
+Six week expedition to Antartica aboard the S.A. Agulhas II. 
 
 I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project.
 
