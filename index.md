@@ -19,7 +19,7 @@ My research interests include Computer Vision, Deep Learning, sea ice and remote
 ## Projects
 
 Oct 2020 - present: 
-**SIDEx** (Sea Ice Dynamic Experiment). _I will be providing sea ice analysis from satellite data during the field campaign in March 2021 and be developing sea ice motion analysis products that will be used to study the ice dynamics around the camp._ You can read more about this project [here](./Projects.pdf)
+**SIDEx** (Sea Ice Dynamic Experiment). _I will be providing sea ice analysis from satellite data during the field campaign in March 2021 and be developing sea ice motion analysis products that will be used to study the ice dynamics around the camp._ You can read more about this project [here](./Projects.pdf).
 
 
 Oct 2019 - Nov 2019: 
