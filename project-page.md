@@ -34,7 +34,9 @@ You can see the full project presentation [here](./Projects.pdf).
 
 ### MOSAiC
 
-In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data. See more about the MOSAiC Expedition [here](https://mosaic-expedition.org/).
+In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data. 
+
+See more about the MOSAiC Expedition [here](https://mosaic-expedition.org/).
 
 * * *
 
