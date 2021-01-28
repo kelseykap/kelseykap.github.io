@@ -2,8 +2,22 @@
 layout: default
 ---
 
+## Projects
+
 [back](./)
 
-## SIDEx
+* * *
+
+**SIDEx**
 
 ![sidex-camp](./assets/img/sidex-camp.gif)
+
+* * *
+
+**MOSAiC**
+
+* * *
+
+**SCALE**
+
+* * *
