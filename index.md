@@ -18,33 +18,32 @@ My research interests include Computer Vision, Deep Learning, sea ice and remote
 
 ## Projects
 
-##### OCT 2020 - present
-
+Oct 2020 - present: 
 **SIDEx** (Sea Ice Dynamic Experiment). _I will be part of the Ground Support Team, providing sea ice fracture and lead formation analysis from satellite data during the field campaign in March 2021, and be developing sea ice motion analysis products that will be used in understanding the fine-scale strain and stress dynamics around the camp._ 
 
+Dec 2020 - present: 
 **MOSAiC** (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). _In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction._ 
 
 You can read more about these projects [here](./Projects.pdf).
 
 
-##### OCT 2019 - NOV 2019
-
+Oct 2019 - Nov 2019: 
 **SCALE** (Southern Ocean Seasonal Experiment). Six week expedition to Antartica aboard the S.A. Agulhas II. _I was a member of the Sea Ice Team. My responsibilities included ice coring, sea ice observations, buoy troubleshooting and deployment and the operation and maintenance of a Stereo Vision system I developed for my Honors project._
 
 * * *
 
 ## Education
 
-##### SEP 2020 - present: 
+Sep 2020 - present: 
 **PhD in Computer Science,** University of Delaware, _GPA 4.0_
 
-##### DEC 2018 - JAN 2019:
+Dec 2018 - Jan 2019:
 **React Front End Web Development Course,** Zaio _[Online]_          
 
-##### FEB 2015 - NOV 2019: 
+Feb 2015 - Nov 2019: 
 **Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: "Stereo system design for ship-based acquisition in Antarctica", GPA 3.69_
            
-##### FEB 2012 - NOV 2014:
+Feb 2012 - Nov 2014:
 **Bachelor of Architectural Studies,** University of Cape Town
 
 * * *
