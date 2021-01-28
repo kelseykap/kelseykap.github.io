@@ -23,7 +23,9 @@ Oct 2020 - present:
 
 ![sidex-camp](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/sidex-camp.gif)
 
-![sidex-camp](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/logo.png)
+![logo](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/logo.png)
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 Dec 2020 - present: 
 **MOSAiC** (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). _In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data._ 
