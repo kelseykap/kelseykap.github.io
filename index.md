@@ -19,15 +19,15 @@ My research interests include Computer Vision, Deep Learning, sea ice and remote
 ## Projects
 
 Oct 2020 - present: 
-**SIDEx** (Sea Ice Dynamic Experiment). _Field support and development of algorithms for fine-scale drift and deformation characterization._
+**SIDEx (Sea Ice Dynamic Experiment).** _Field support and development of algorithms for fine-scale drift and deformation characterization._
 
 
 Dec 2020 - present: 
-**MOSAiC** (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). _Developing sea ice motion analysis algorithms and methods for fracture and lead formation prediction using Sentinel-1 data._ 
+**MOSAiC (Multidisciplinary Drifting Observatory for the Study of Arctic Climate).** _Developing sea ice motion analysis algorithms and methods for fracture and lead formation prediction using Sentinel-1 data._ 
 
 
 Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team._
+**SCALE (Southern Ocean Seasonal Experiment).** _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team._
 
 You can read more about these projects [here](./project-page.html).
 
