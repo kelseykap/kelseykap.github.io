@@ -21,7 +21,7 @@ A combination of Sentinel-1 and MODIS satellite imagery will be used to track le
 
 
 ![sentinel-1](./assets/img/sentinel-1.gif)
-_Sentinel-1 imagery from the month of January 2021 showing an example of a 10 x 10 km camp area._
+_Sentinel-1 imagery from two days in January 2021 showing the changing sea ice field._
 
 
 ![pipeline](./assets/img/pipeline.png)
