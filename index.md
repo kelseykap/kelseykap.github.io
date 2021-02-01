@@ -11,7 +11,7 @@ I am currently a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/) at 
 
 My research is focused on developing algorithms for motion analysis of sea ice. I am currently working on an algorithm that delivers drift and deformation products using an integrated traditional Computer Vision and supervised learning approach.
 
-My research interests include Computer Vision, Deep Learning, sea ice and remote sensing.
+My research interests include **Computer Vision**, **Deep Learning**, **sea ice** and **remote sensing**.
 
 * * *
 
