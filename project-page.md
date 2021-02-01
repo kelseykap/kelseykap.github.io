@@ -36,7 +36,7 @@ You can see the full project presentation [here](./Projects.pdf).
 
 In collaboration with the Sea Ice Dynamics and SAR Drift and Deformation Teams, we are developing algorithms for drift and deformation analysis along with methods for fracture and lead formation prediction using Sentinel-1 data. 
 
-The MOSAiC expedition is the largest polar expedition ever to have taken place and is the first year-round expedition into the central Arctic Ocean. Spearheaded by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, the project involved hundreds of researchers from 20 countries with the primary objective of better understanding global climate change through observations of changes in the Arctic. MOSAiC in-situ observations centered around climate processes that couple atmosphere, sea ice, biogeochemistry, ocean and ecosystem [1](https://mosaic-expedition.org/).
+The MOSAiC expedition is the largest polar expedition ever to have taken place and is the first year-round expedition into the central Arctic Ocean. Spearheaded by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, the project involved hundreds of researchers from 20 countries with the primary objective of better understanding global climate change through observations of changes in the Arctic. MOSAiC in-situ observations centered around climate processes that couple atmosphere, sea ice, biogeochemistry, ocean and ecosystem [[1](https://mosaic-expedition.org/)].
 
 With the expedition coming to a close in October 2020 and the return of the icebreaker, the RV Polarstern, to Bremerhaven, Germany, the extensive data collected will now be made use of in numerous research projects and papers.
 
