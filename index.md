@@ -29,10 +29,6 @@ Dec 2020 - present:
 Oct 2019 - Nov 2019: 
 **SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team._
 
-![Antarctica](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/antarctica_final.mov)
-
-![Antarctica](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/breaking-ice.gif)
-
 * * *
 
 ## Education
