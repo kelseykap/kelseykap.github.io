@@ -29,20 +29,18 @@ Dec 2020 - present:
 Oct 2019 - Nov 2019: 
 **SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team._
 
-You can read more about these projects [here](./project-page.html).
-
 * * *
 
 ## Education
 
 Sep 2020 - present: 
-**PhD in Computer Science,** University of Delaware, _GPA 4.0_
+**PhD in Computer Science,** University of Delaware
 
 Dec 2018 - Jan 2019:
 **React Front End Web Development Course,** Zaio _[Online]_          
 
 Feb 2015 - Nov 2019: 
-**Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf), GPA 3.69_
+**Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf)
            
 Feb 2012 - Nov 2014:
 **Bachelor of Architectural Studies,** University of Cape Town
