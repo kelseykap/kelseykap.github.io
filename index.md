@@ -31,6 +31,8 @@ Oct 2019 - Nov 2019:
 
 ![Antarctica](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/antarctica_final.mov)
 
+![Antarctica](https://github.com/kelseykap/kelseykap.github.io/blob/master/assets/img/breaking-ice.gif)
+
 * * *
 
 ## Education
