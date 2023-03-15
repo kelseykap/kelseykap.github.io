@@ -18,7 +18,7 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 ## Projects
 
 Oct 2020 - Dec 2022: 
-**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here] (http://bigdatavision.org/environmenthealth/projects.html)._
+**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html)._
 
 
 Oct 2019 - Nov 2019: 
