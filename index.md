@@ -7,7 +7,7 @@ layout: default
 * * *
 
 ## Research
-For the last two years, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/). 
+For the last two years, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/){:target="_blank"}. 
 My focus was on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using a traditional Computer Vision approach.
 
 My research interests and expertise include **Computer Vision**, **sea ice analysis** and **remote sensing**.
@@ -18,11 +18,11 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 ## Projects
 
 Oct 2020 - Dec 2022: 
-**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html)._
+**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html){:target="_blank"}._
 
 
 Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on the expedition [here](https://scale.org.za/) and on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf)_
+**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on the expedition [here](https://scale.org.za/){:target="_blank"} and on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf){:target="_blank"}_
 
 * * *
 
@@ -44,7 +44,7 @@ Dec 2018 - Jan 2019:
 **React Front End Web Development,** Zaio _[Online]_          
 
 Feb 2015 - Nov 2019: 
-**Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf)
+**Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf){:target="_blank"}
            
 Feb 2012 - Nov 2014:
 **Bachelor of Architectural Studies,** University of Cape Town
@@ -53,7 +53,7 @@ Feb 2012 - Nov 2014:
 
 ## Contact
 
-kelskap@udel.edu
+kelskaplan@gmail.com
 
 +1 410 562 5810
 
