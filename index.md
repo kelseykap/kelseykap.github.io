@@ -2,42 +2,46 @@
 layout: default
 ---
 
-## **Hello**, I am a first year PhD student studying Computer Science at the University of Delaware.
+## **Hello**, I recently graduated with a M.S. in Computer Science from the University of Delaware.
 
 * * *
 
 ## Research
-I am currently a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/) at the University of Delaware under the supervision of [Dr Chandra Kambhamettu](https://scholar.google.com/citations?user=BMVESLIAAAAJ&hl=en). 
+For the last two years, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/). 
+My focus was on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using a traditional Computer Vision approach.
 
-My research is focused on the development of algorithms that generate fine-scale motion analysis of sea ice from remote sensing data using a traditional Computer Vision approach.
-
-My research interests include **Computer Vision**, **Deep Learning**, **sea ice** and **remote sensing**.
+My research interests and expertise include **Computer Vision**, **sea ice analysis** and **remote sensing**.
 
 * * *
 
 
 ## Projects
 
-Oct 2020 - present: 
-**SIDEx** (Sea Ice Dynamic Experiment). _Field support and development of algorithms for fine-scale drift and deformation characterization._
-
-
-Dec 2020 - present: 
-**MOSAiC** (Multidisciplinary Drifting Observatory for the Study of Arctic Climate). _Developing sea ice motion analysis algorithms and methods for fracture and lead formation prediction using Sentinel-1 data._ 
+Oct 2020 - Dec 2022: 
+**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here] (http://bigdatavision.org/environmenthealth/projects.html)._
 
 
 Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team._
+**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on the expedition [here](https://scale.org.za/) and on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf)_
+
+* * *
+
+## Publications
+
+**Kelsey Kaplan** and Chandra Kambhamettu. "A Novel Methodology for High-Resolution Sea Ice Motion Estimation", IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
+
+Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. "Deep Learning-based Sea Ice Lead Detection from WorldView and Sentinel SAR Imagery", IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
+
 
 * * *
 
 ## Education
 
 Sep 2020 - present: 
-**PhD in Computer Science,** University of Delaware
+**Master of Science in Computer Science,** University of Delaware
 
 Dec 2018 - Jan 2019:
-**React Front End Web Development Course,** Zaio _[Online]_          
+**React Front End Web Development,** Zaio _[Online]_          
 
 Feb 2015 - Nov 2019: 
 **Bachelor of Science in Electrical and Computer Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf)
@@ -52,8 +56,6 @@ Feb 2012 - Nov 2014:
 kelskap@udel.edu
 
 +1 410 562 5810
-
-Newark, DE
 
 
 * * *
