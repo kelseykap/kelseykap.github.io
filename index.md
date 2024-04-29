@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## **Hello**, I recently graduated with a M.S. in Computer Science from the University of Delaware.
+## **Hello**, I am a M.S. in Computer Science graduate, specialising in Computer Vision and remote sensing.
 
 * * *
 
 ## Research
-For the last two years, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/). 
-My focus was on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using a traditional Computer Vision approach.
+During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/). 
+My research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using a traditional Computer Vision approach.
 
 My research interests and expertise include **Computer Vision**, **sea ice analysis** and **remote sensing**.
 
@@ -17,8 +17,8 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 
 ## Projects
 
-Oct 2020 - Dec 2022: 
-**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html)._
+Oct 2020 - Feb 2023: 
+**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html)._ and my final thesis project [here]()._
 
 
 Oct 2019 - Nov 2019: 
