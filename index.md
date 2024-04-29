@@ -44,7 +44,7 @@ Dec 2018 - Jan 2019:
 **React Front End Web Development,** Zaio _[Online]_          
 
 Feb 2015 - Nov 2019: 
-**B.Sc (Hons) in Electrical Engineering,** University of Cape Town, _Award for best final honors project, title: ["Stereo system design for ship-based acquisition in Antarctica"](./thesis.pdf)
+**B.Sc (Hons) in Electrical Engineering,** University of Cape Town
            
 Feb 2012 - Nov 2014:
 **B.A. in Architectural Studies,** University of Cape Town
