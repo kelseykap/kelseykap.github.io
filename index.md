@@ -7,7 +7,7 @@ layout: default
 * * *
 
 ## Research
-During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab](http://vims.cis.udel.edu/). 
+During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab]([http://vims.cis.udel.edu/](https://bigdatavision.org/seaIceProjects/)){:target="_blank"}. 
 My research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using a traditional Computer Vision approach.
 
 My research interests and expertise include **Computer Vision**, **sea ice analysis** and **remote sensing**.
