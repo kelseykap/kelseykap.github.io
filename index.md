@@ -18,11 +18,11 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 ## Projects
 
 Oct 2020 - Feb 2023: 
-**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](http://bigdatavision.org/environmenthealth/projects.html) and my final thesis project [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing)._
+**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](https://vims.cis.udel.edu/iceresearch/motion.html) and my final thesis project [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing)._
 
 
 Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on the expedition [here](https://scale.org.za/) and on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf)._
+**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf)._
 
 * * *
 
