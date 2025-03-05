@@ -2,26 +2,32 @@
 layout: default
 ---
 
-### **Hello**, <br>I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
+### **Hello**<br>
+I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
 
 * * *
 
 ### RESEARCH
-During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab](https://bigdatavision.org/seaIceProjects/).
-My research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
+During my time at the University of Delaware at [VIMS Lab](https://bigdatavision.org/seaIceProjects/), my research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
 
-My research interests and expertise include **Computer Vision**, **sea ice analysis** and **remote sensing**.
+My research interests and expertise include **Computer Vision**, **remote sensing** and **spatial data analysis for environmental monitoring**.
 
 * * *
 
 ### PROJECTS
 
-Oct 2020 - Feb 2023: 
-**SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](https://vims.cis.udel.edu/iceresearch/motion.html) and my final thesis project [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing)._
+<sup>Oct 2020 - Feb 2023</sup><br>
+**SIDEx (Sea Ice Dynamics Experiment)** <br>
+I designed and developed a novel Computer Vision algorithm for Arctic sea ice analysis (the final algorithm achieves best known spatial resolution and accuracy in motion estimation of sea ice at time of publication).
+During the expedition, I also performed real-time monitoring and tracking of weather and sea ice activity for daily updates to the team in the field.
+See some of my results [here](https://bigdatavision.org/seaIceProjects/) and [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing).
 
 
-Oct 2019 - Nov 2019: 
-**SCALE** (Southern Ocean Seasonal Experiment). _Six week expedition to Antartica aboard the S.A. Agulhas II as part of the Sea Ice Team. I developed, deployed and monitored a ship-based stereo camera system for acquiring calibrated sea ice images. See more on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf)._
+<sup>Oct 2019 - Nov 2019</sup><br>
+**SCALE (Southern Ocean Seasonal Experiment)** <br>
+I went on a six week expedition to Antartica aboard the S.A. Agulhas II as part of the sea ice core extraction and sea ice observations teams.
+I designed, developed and deployed an integrated and calibrated hardware and software stereo camera and IMU system for acquiring sea ice data from the ship.
+See more on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf).
 
 * * *
 
@@ -53,9 +59,9 @@ Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Lear
 
 * * *
 
-#### CONTACT
+#### GET IN TOUCH
 
-kelskaplan@gmail.com
+[kelskaplan@gmail.com](mailto:kelskaplan@gmail.com)
 
 * * *
 
