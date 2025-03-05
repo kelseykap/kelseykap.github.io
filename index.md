@@ -8,7 +8,7 @@ layout: default
 * * *
 
 ### RESEARCH
-During my time at the University of Delaware at [VIMS Lab](https://bigdatavision.org/seaIceProjects/), my research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
+During my time at [VIMS Lab](https://bigdatavision.org/) at the University of Delaware, my research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
 
 My research interests and expertise include **Computer Vision**, **remote sensing** and **spatial data analysis for environmental monitoring**.
 
@@ -19,14 +19,14 @@ My research interests and expertise include **Computer Vision**, **remote sensin
 <sup>Oct 2020 - Feb 2023</sup><br>
 **SIDEx (Sea Ice Dynamics Experiment)** <br>
 I designed and developed a novel Computer Vision algorithm for Arctic sea ice analysis (the final algorithm achieves best known spatial resolution and accuracy in motion estimation of sea ice at time of publication).
-During the expedition, I also performed real-time monitoring and tracking of weather and sea ice activity for daily updates to the team in the field.
+During the expedition, I also performed real-time monitoring and tracking of weather and sea ice activity for daily updates to the team in the field.<br>
 See some of my results [here](https://bigdatavision.org/seaIceProjects/) and [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing).
 
 
 <sup>Oct 2019 - Nov 2019</sup><br>
 **SCALE (Southern Ocean Seasonal Experiment)** <br>
 I went on a six week expedition to Antartica aboard the S.A. Agulhas II as part of the sea ice core extraction and sea ice observations teams.
-I designed, developed and deployed an integrated and calibrated hardware and software stereo camera and IMU system for acquiring sea ice data from the ship.
+I designed, developed and deployed an integrated and calibrated hardware and software stereo camera and IMU system for acquiring sea ice data from the ship.<br>
 See more on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob/master/thesis.pdf).
 
 * * *
