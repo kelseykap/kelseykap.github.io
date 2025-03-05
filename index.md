@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### **Hello**, I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
+### **Hello**, <br>I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
 
 * * *
 
@@ -53,7 +53,7 @@ Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Lear
 
 * * *
 
-#### Contact
+#### CONTACT
 
 kelskaplan@gmail.com
 
