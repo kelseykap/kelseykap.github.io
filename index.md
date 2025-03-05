@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## **Hello**, I am a Computer Science Master's graduate, specialising in Computer Vision and Remote Sensing.
+### **Hello**, I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
 
 * * *
 
-## Research
+#### Research
 During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab](https://bigdatavision.org/seaIceProjects/).
 My research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
 
@@ -15,7 +15,7 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 * * *
 
 
-## Projects
+#### Projects
 
 Oct 2020 - Feb 2023: 
 **SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](https://vims.cis.udel.edu/iceresearch/motion.html) and my final thesis project [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing)._
@@ -26,11 +26,7 @@ Oct 2019 - Nov 2019:
 
 * * *
 
-# PUBLICATIONS
-## PUBLICATIONS
-### PUBLICATIONS
 #### PUBLICATIONS
-PUBLICATIONS
 
 **Kelsey Kaplan** and Chandra Kambhamettu. ["A Novel Methodology for High-Resolution Sea Ice Motion Estimation"](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_24), IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
 
@@ -39,10 +35,13 @@ Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Lear
 
 * * *
 
-## Education
+#### Education
 
-Sep 2020 - Feb 2023: 
-**M.S. in Computer Science,** University of Delaware
+Sep 2020 - Feb 2023, University of Delaware, USA
+
+**M.Sc in Computer Science,**
+
+Specialisation in Computer Vision & Remote Sensing, GPA: 4.0
 
 Dec 2018 - Jan 2019:
 **React Front End Web Development,** Zaio _[Online]_          
@@ -55,12 +54,10 @@ Feb 2012 - Nov 2014:
 
 * * *
 
-## Contact
+#### Contact
 
 kelskaplan@gmail.com
-
 +351 920 450 731
-
 
 * * *
 
