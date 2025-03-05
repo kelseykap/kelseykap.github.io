@@ -2,12 +2,10 @@
 layout: default
 ---
 
-### **HELLO,**<br>
+## **HELLO,**<br>
 **I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.**
 
-* * *
 
-### RESEARCH
 During my time at [VIMS Lab](https://bigdatavision.org/) at the University of Delaware, my research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
 
 My research interests and expertise include **Computer Vision**, **remote sensing** and **spatial data analysis for environmental monitoring**.
@@ -59,7 +57,7 @@ Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Lear
 
 * * *
 
-#### GET IN TOUCH
+### GET IN TOUCH
 
 [kelskaplan@gmail.com](mailto:kelskaplan@gmail.com)
 
