@@ -6,7 +6,7 @@ layout: default
 
 * * *
 
-#### Research
+### RESEARCH
 During my time completing my Master's at the University of Delaware, I worked as a Research Assistant at [VIMS Lab](https://bigdatavision.org/seaIceProjects/).
 My research focused on the development of novel algorithms for the fine-scale motion analysis of Arctic sea ice from remote sensing data, using both traditional Computer Vision techniques and a Machine Learning approach.
 
@@ -14,8 +14,7 @@ My research interests and expertise include **Computer Vision**, **sea ice analy
 
 * * *
 
-
-#### Projects
+### PROJECTS
 
 Oct 2020 - Feb 2023: 
 **SIDEx** (Sea Ice Dynamics Experiment). _Field support during the expedition (daily, real-time collection and analysis of satellite imagery acquired over the expedition site) and development of algorithms for fine-scale drift and deformation characterization of Arctic sea ice. See some of my results [here](https://vims.cis.udel.edu/iceresearch/motion.html) and my final thesis project [here](https://drive.google.com/file/d/1ie40TW9mYXJtuKKIeAVDcHwtCqkOXwJ_/view?usp=sharing)._
@@ -26,38 +25,37 @@ Oct 2019 - Nov 2019:
 
 * * *
 
-#### PUBLICATIONS
+### EDUCATION
+
+<sup>Sep 2020 - Feb 2023: University of Delaware, USA</sup><br>
+**M.Sc in Computer Science**<br>
+_Specialisation in Computer Vision & Remote Sensing, GPA: 4.0_
+
+<sup>Feb 2015 - Mar 2020: University of Cape Town, ZA</sup><br>
+**B.Sc (Hons) in Engineering**<br>
+_Specialisation in Computer & Electrical Engineering_
+
+<sup>Dec 2018 - Jan 2019: Zaio, Online</sup><br>
+**React Front End Web Development**<br>
+_Short Course_
+           
+<sup>Feb 2012 - Mar 2015: University of Cape Town, ZA</sup><br>
+**B.A. in Architectural Studies**<br>
+_With automatic acceptance into honours_
+
+* * *
+
+### PUBLICATIONS
 
 **Kelsey Kaplan** and Chandra Kambhamettu. ["A Novel Methodology for High-Resolution Sea Ice Motion Estimation"](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_24), IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
 
 Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Learning-based Sea Ice Lead Detection from WorldView and Sentinel SAR Imagery"](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_25), IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
-
-
-* * *
-
-#### Education
-
-Sep 2020 - Feb 2023, University of Delaware, USA
-
-**M.Sc in Computer Science,**
-
-Specialisation in Computer Vision & Remote Sensing, GPA: 4.0
-
-Dec 2018 - Jan 2019:
-**React Front End Web Development,** Zaio _[Online]_          
-
-Feb 2015 - Nov 2019: 
-**B.Sc (Hons) in Electrical Engineering,** University of Cape Town
-           
-Feb 2012 - Nov 2014:
-**B.A. in Architectural Studies,** University of Cape Town
 
 * * *
 
 #### Contact
 
 kelskaplan@gmail.com
-+351 920 450 731
 
 * * *
 
