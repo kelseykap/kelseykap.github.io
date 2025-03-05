@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **Hello**, I am a Computer Science Master's graduate, specialising in Computer Vision and remote sensing.
+## **Hello**, I am a Computer Science Master's graduate, specialising in Computer Vision and Remote Sensing.
 
 * * *
 
@@ -26,11 +26,15 @@ Oct 2019 - Nov 2019:
 
 * * *
 
-## Publications
+# PUBLICATIONS
+## PUBLICATIONS
+### PUBLICATIONS
+#### PUBLICATIONS
+PUBLICATIONS
 
-**Kelsey Kaplan** and Chandra Kambhamettu. "A Novel Methodology for High-Resolution Sea Ice Motion Estimation", IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
+**Kelsey Kaplan** and Chandra Kambhamettu. ["A Novel Methodology for High-Resolution Sea Ice Motion Estimation"](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_24), IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
 
-Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. "Deep Learning-based Sea Ice Lead Detection from WorldView and Sentinel SAR Imagery", IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
+Rohit Venkata Sai Dulam, **Kelsey Kaplan**, and Chandra Kambhamettu. ["Deep Learning-based Sea Ice Lead Detection from WorldView and Sentinel SAR Imagery"](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_25), IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August 2022.
 
 
 * * *
