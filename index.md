@@ -2,8 +2,8 @@
 layout: default
 ---
 
-### **Hello**<br>
-I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.
+### **Hello,**<br>
+**I am a Computer Science Master's Graduate, specialising in Computer Vision and Remote Sensing.**
 
 * * *
 
