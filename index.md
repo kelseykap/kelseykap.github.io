@@ -31,20 +31,20 @@ See more on my work [here](https://github.com/kelseykap/kelseykap.github.io/blob
 
 ### EDUCATION
 
-<sup>Sep 2020 - Feb 2023: University of Delaware, USA</sup><br>
-**M.Sc in Computer Science**<br>
+<sup>2020 - 2023: University of Delaware, USA</sup><br>
+**Master's in Computer Science**<br>
 _Specialisation in Computer Vision & Remote Sensing, GPA: 4.0_
 
-<sup>Feb 2015 - Mar 2020: University of Cape Town, ZA</sup><br>
-**B.Sc (Hons) in Engineering**<br>
-_Specialisation in Computer & Electrical Engineering_
+<sup>2016 - 2020: University of Cape Town, ZA</sup><br>
+**Bachelor's in Engineering**<br>
+_Specialisation in Computer & Electrical Engineering, First Class Honours_
 
-<sup>Dec 2018 - Jan 2019: Zaio, Online</sup><br>
+<sup>2018 - 2019: Zaio, Online</sup><br>
 **React Front End Web Development**<br>
 _Short Course_
            
-<sup>Feb 2012 - Mar 2015: University of Cape Town, ZA</sup><br>
-**B.A. in Architectural Studies**<br>
+<sup>2012 - 2015: University of Cape Town, ZA</sup><br>
+**Bachelor's in Architecture**<br>
 _With automatic acceptance into honours_
 
 * * *
